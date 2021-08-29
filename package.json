@@ -1,0 +1,8 @@
+{
+  "name": "times_shinyaigeek_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Shinyaigeek/times_shinyaigeek_bot.git",
+  "author": "shinyaigeek <philispaxil@gmail.com>",
+  "license": "MIT"
+}
